@@ -1,87 +1,113 @@
-# Rhythm Chawla
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
+  Hey, I'm Rhythm
+</h1>
 
-I build production AI systems — agentic pipelines, distributed backends, and developer tooling that ships.
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=I+build+production+AI+systems.;Agentic+pipelines+%7C+Distributed+backends.;MCP+%7C+LLMs+%7C+Systems+that+ship.&center=true&vCenter=true&size=22&width=1000&height=60&color=7c3aed" /></a>
 
-**University of Waterloo** — BCS, AI + HCI specialization, Entrepreneurship minor · President's Scholarship of Distinction
+<p align="center">
+  3rd-year CS @ <strong>University of Waterloo</strong> · AI + HCI specialization · Entrepreneurship minor<br/>
+  President's Scholarship of Distinction &nbsp;·&nbsp; Seeking Fall 2026 SWE co-op
+</p>
 
----
-
-## Experience
-
-**Software Engineer Intern** — Carta · Jan 2026 – Apr 2026
-`Python` `Django` `gRPC` `Kafka` `MCP` `PostgreSQL` `Docker` `Kubernetes`
-- Shipped Carta's first MCP compensation benchmarking plugin — HR teams query real-time salary data through Claude via natural language
-- Built devtools-mcp: Chrome extension + Node.js MCP server streaming live browser state (network, console, cookies) directly into Claude Code
-- Architected Project Atlas — persistent context memory system for Claude agents, reducing token consumption by ~86K per investigation session
-- Built end-to-end HRIS integration pipeline automating bonus/commission sync from Rippling, Gusto, BambooHR into Carta's Total Compensation product, syncing 124K+ employees across 130+ companies
-
-**LLM Engineer Intern** — Cresta (Series D AI) · May 2025 – Aug 2025
-`Python` `LLMs` `Google Apps Script` `Jupyter`
-- Engineered an LLM auditing system processing 10K conversation logs per run, cutting manual QA time by 98%
-- Conducted QA for AI agent behavior across 12 enterprise clients including Royal Caribbean
-
-**HCI Researcher** — Prof. Edith Law, University of Waterloo · Dec 2025 – Present
-`Next.js` `TensorFlow` `Firebase` `Three.js`
-- Software engineer on research team building AI literacy tools for Canadian healthcare (Future of Work Institute × Google)
-- Won Best Prototype at the Fall 2025 Google × UWaterloo Symposium on the Future of Learning (Pipette Pro)
-
-**Founding Engineer** — G12Uni · Conrad School of Entrepreneurship · May 2024 – Aug 2024
-`React` `Next.js` `Flutter` `Firebase` `GCP` `NLP`
-- Built full-stack web (React/Next.js) and mobile (Flutter) apps; scaled to 40K monthly visits and 2K+ MAU
-- Selected for Google for Startups program; pitched to 24 high schools, secured 5 pilot agreements
-- Deployed NLP pipelines on GCP for Reddit/YouTube intelligence
+<p align="center">
+  <a href="https://linkedin.com/in/rhychaw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rhychaw.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:r3chawla@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/RhyChaw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## Projects
+## 🔧 What I'm building
 
-**[Pipette Pro](https://pipettepro.vercel.app)** — Best Prototype · Google × UWaterloo Symposium
-Interactive lab technique learning platform built with Google mentorship · `Next.js` `TensorFlow` `Firebase` `Three.js`
-
-**[SnapSafe](https://www.youtube.com/watch?v=ajmASxcm4OA)** — Hack the North 2025
-Real-time AR fire evacuation on Snap glasses — depth caching, ray casting, custom ONNX exit detection model · `Snap AR` `Lens Studio` `Roboflow` `ONNX`
-
-**[Clash Royale Analytics Platform](https://github.com/RhyChaw/clashroyalestats)**
-End-to-end analytics platform ingesting 50K+ battle logs, ML win-probability predictions · `Python` `PostgreSQL` `dbt` `FastAPI` `XGBoost`
-
-**[Watopoly](https://github.com/RhyChaw/watopoly)**
-Monopoly set at University of Waterloo — trading, auctions, save/load · `C++17` `OOP`
-
-**[StrumSpace](https://github.com/LuhemRevorg/StrumSpace)** — SpurHacks
-Real-time guitar chord detection and AR overlay · `YOLOv8` `Three.js` `Flask` `React`
-
-**[JADO AI](https://github.com/RhyChaw/Jado)**
-LLM-powered admissions assistant — YouTube parsing, Reddit scanning, multi-agent pipeline · `Docker` `FastAPI` `PostgreSQL`
-
-**[Rhythm](https://devpost.com/software/rhythm-o8rwp4)** — Hack the Hill Ottawa
-AI voice coach using Meta Wav2Vec2 — stuttering detection, pitch and pace analysis · `Wav2Vec2` `librosa` `SciPy` `React`
-
-**[PawPal](https://devpost.com/software/heads-up-for-tails)** — GeeseHacks 2025
-AI pet health monitoring — disease detection, food recommendations · `React` `Firebase` `OpenAI`
-
-**[MineGuard](https://devpost.com/software/mineguard)** — Hack the Valley 2024 · solo, 36 hours
-Mining safety platform — air quality AI, soil analysis, waste management · `React` `Firebase` `Random Forest`
+- 🚀 **[palace-ai](https://github.com/RhyChaw/palace-ai)** — open-source Python CLI turning any repo into a memory palace for AI agents · `pip install palace-ai` · 10–42× token reduction
+- 🛠️ **GitHub career context MCP** — helping students surface their work for AI-native recruiting workflows
+- 🎓 Currently taking **CS 480 ML**, **CS 350 OS**, **CS 449 HCI** at Waterloo
 
 ---
 
-## Skills
+## 💼 Experience
 
-**Languages** · Python · TypeScript · JavaScript · C++ · Go · Rust · Java · Bash · SQL · Dart
-
-**AI & Agents** · MCP (Model Context Protocol) · LLM orchestration · RAG · vector embeddings · pgvector · LangChain · Wav2Vec2 · YOLOv8 · TensorFlow · RL (DQN, A3C)
-
-**Backend & Systems** · Django · FastAPI · gRPC · Kafka · PostgreSQL · Docker · Kubernetes · GCP · AWS · ArgoCD · CI/CD
-
-**Frontend** · React · Next.js · Three.js · Flutter · Tailwind · Vite
-
----
-
-## Currently
-
-- 3rd year CS at Waterloo (AI + HCI) — taking CS 480 ML, CS 350 OS, CS 449 HCI
-- Building: GitHub career context MCP for students
-- Seeking Fall 2026 SWE co-op in AI infrastructure, agentic systems, or production backend
+| | Role | Company | Stack |
+|---|---|---|---|
+| 🟣 | **SWE Intern** *(Jan–Apr 2026)* | **Carta Maple** | Python · Django · gRPC · Kafka · MCP · K8s · Datadog|
+| 🔵 | **LLM Engineer Intern** *(May–Aug 2025)* | **Cresta** | Python · LLMs · Google Apps Script |
+| 🟢 | **HCI Researcher** *(Dec 2025–Present)* | **UWaterloo** × Google | Next.js · TensorFlow · Three.js · ML5|
+| ⚡ | **Founding Engineer** *(May–Aug 2024)* | **G12Uni** · Conrad School | React · Flutter · Firebase · GCP · LLMs|
 
 ---
 
-📫 [r3chawla@uwaterloo.ca](mailto:r3chawla@uwaterloo.ca) · [LinkedIn](https://linkedin.com/in/rhychaw) · [Portfolio](https://rhychaw.vercel.app)
+## 🏆 Highlights
+
+- Built **Carta's first MCP compensation plugin** — HR teams query live salary data through Claude via natural language
+- Architected **Project Atlas** — persistent context memory for Claude agents, saving ~86K tokens per investigation session
+- Built **devtools-mcp** — Chrome extension + Node.js MCP server streaming live browser DevTools state into Claude Code
+- Scaled G12Uni to **40K monthly visits** and **2K+ MAU**; selected for Google for Startups
+- **Best Prototype** — Google × UWaterloo Symposium on the Future of Learning (Pipette Pro)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Agents**
+
+![MCP](https://img.shields.io/badge/MCP-7c3aed?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-ff6b6b?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+
+**Backend & Systems**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**palace-ai**](https://github.com/RhyChaw/palace-ai) | Repo → AI memory palace · 10–42x token reduction · pip installable | Python · MCP · pgvector |
+| [**SnapSafe**](https://www.youtube.com/watch?v=ajmASxcm4OA) *Hack the North* | Real-time AR fire evacuation on Snap glasses | Snap AR · ONNX · Lens Studio |
+| [**Pipette Pro**](https://pipettepro.vercel.app) 🏅 *Best Prototype* | Interactive lab technique learning platform | Next.js · TensorFlow · Three.js |
+| [**Clash Royale Analytics**](https://github.com/RhyChaw/clashroyalestats) | 50K+ battle logs · ML win-probability model | Python · dbt · XGBoost |
+| [**StrumSpace**](https://github.com/LuhemRevorg/StrumSpace) | Real-time guitar chord detection + AR overlay | YOLOv8 · Three.js · Flask |
+| [**JADO AI**](https://github.com/RhyChaw/Jado) | LLM admissions assistant · multi-agent pipeline | Docker · FastAPI · PostgreSQL |
+| [**Rhythm**](https://devpost.com/software/rhythm-o8rwp4) | AI voice coach · stutter detection, pitch analysis | Wav2Vec2 · librosa · React |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhyChaw&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
